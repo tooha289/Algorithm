@@ -9,10 +9,8 @@ def solution(s):
         elif len(brackets) < 1:
             return False
         # 왼쪽 소괄호가 아니고 괄호 스택이 비어있지 않은 경우
-        brackets.pop()
+        else:
+            brackets.pop()
     if len(brackets) == 0:
         return True
     return False
-
-
-solution("()()")
