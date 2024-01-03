@@ -15,3 +15,10 @@ Solve algorithmic problems on multiple sites. Mainly solving problems for “pro
 </details>
 
 ## Programmers
+<details>
+<summary>[Permutation] level2. 소수찾기</summary>
+
+* Date : [2024-01-02]
+* [File](https://github.com/tooha289/Algorithm/blob/main/Programmers/%5BPermutation%5Dlevel2_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)
+* [Blog](https://wikinist.tistory.com/259)
+</details>
